@@ -1,0 +1,26 @@
+{
+  "name": "booklee",
+  "version": "1.0.24",
+  "description": "Find places, book appointments, and manage your Booklee business with the access you choose.",
+  "author": {
+    "name": "Booklee",
+    "email": "madaher@gmail.com",
+    "url": "https://booklee.app"
+  },
+  "homepage": "https://booklee.app",
+  "keywords": [
+    "appointments",
+    "booking",
+    "salons",
+    "clinics",
+    "business",
+    "mcp"
+  ],
+  "displayName": "Booklee",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://booklee.app",
+  "supportUrl": "https://booklee.app/contact",
+  "privacyPolicyUrl": "https://booklee.app/privacy",
+  "termsOfServiceUrl": "https://booklee.app/terms",
+  "repository": "https://github.com/madaher-dev/booklee-claude-plugin"
+}
